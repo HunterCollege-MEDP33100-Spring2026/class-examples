@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    border-bottom: 2px solid black;
+}
+
+p {
+    background: lightgray;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px; 
+    border: 1px solid black;
+}
+
+li {
+    color: orange;
+}

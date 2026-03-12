@@ -1,0 +1,47 @@
+button {
+    background-color: darkseagreen;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+}
+
+button:hover {
+    box-shadow: 1px 1px 15px 5px rgba(0, 0, 0, 0.39);
+}
+
+button:active {
+    opacity: 0.5;
+}
+
+button:disabled {
+    background-color: grey;
+    color: black;
+}
+
+button:disabled:hover {
+    box-shadow: none;
+}
+
+button:disabled:active {
+    opacity: 1;
+}
+
+button::after {
+    content: 'Click me';
+    display: none;
+    background: black;
+    color: white;
+    position: absolute;
+    left: 50%;
+    bottom: -40px;
+    transform: translateX(-50%);
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
+button:hover::after {
+    display: block;
+}
