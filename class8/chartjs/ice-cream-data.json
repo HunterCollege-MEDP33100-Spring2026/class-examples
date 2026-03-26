@@ -1,0 +1,8 @@
+[
+  { "flavor": "Vanilla", "votes": 50 },
+  { "flavor": "Chocolate", "votes": 28 },
+  { "flavor": "Strawberry", "votes": 15 },
+  { "flavor": "Mint Chip", "votes": 12 },
+  { "flavor": "Cookie Dough", "votes": 8 },
+  { "flavor": "Mango", "votes": 50 }
+]

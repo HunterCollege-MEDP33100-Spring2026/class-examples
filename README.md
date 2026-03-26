@@ -16,3 +16,7 @@ This repository is a collection of all the exercises done in class.
     - exercise1: animation emojis with GSAP
 5. class6
     - Library example
+6. class7
+    - API Library example
+7. class8 
+    - Javascript libraries example (ChartJS, Leaflet, Cytoscape)

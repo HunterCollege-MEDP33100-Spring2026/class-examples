@@ -1,0 +1,19 @@
+{
+  "people": [
+    { "id": "alice", "name": "Alice" },
+    { "id": "bob", "name": "Bob" },
+    { "id": "carol", "name": "Carol" },
+    { "id": "dave", "name": "Dave" },
+    { "id": "emma", "name": "Emma" },
+    { "id": "frank", "name": "Frank" }
+  ],
+  "friendships": [
+    { "source": "alice", "target": "bob" },
+    { "source": "alice", "target": "carol" },
+    { "source": "bob", "target": "dave" },
+    { "source": "carol", "target": "dave" },
+    { "source": "carol", "target": "emma" },
+    { "source": "dave", "target": "frank" },
+    { "source": "emma", "target": "frank" }
+  ]
+}

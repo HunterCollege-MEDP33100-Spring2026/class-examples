@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Central Park",
+    "latitude": 40.7829,
+    "longitude": -73.9654,
+    "description": "843-acre public park in Manhattan"
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "latitude": 40.7061,
+    "longitude": -73.9969,
+    "description": "Iconic suspension bridge connecting Manhattan and Brooklyn"
+  },
+  {
+    "name": "Statue of Liberty",
+    "latitude": 40.6892,
+    "longitude": -74.0445,
+    "description": "Colossal neoclassical sculpture on Liberty Island"
+  },
+  {
+    "name": "Times Square",
+    "latitude": 40.7580,
+    "longitude": -73.9855,
+    "description": "Major commercial and entertainment hub in Midtown"
+  },
+  {
+    "name": "Coney Island",
+    "latitude": 40.5749,
+    "longitude": -73.9857,
+    "description": "Beachfront amusement area in southern Brooklyn"
+  },
+  {
+    "name": "Yankee Stadium",
+    "latitude": 40.8296,
+    "longitude": -73.9262,
+    "description": "Home of the New York Yankees in the Bronx"
+  },
+  {
+    "name": "Flushing Meadows Park",
+    "latitude": 40.7400,
+    "longitude": -73.8408,
+    "description": "Public park in Queens, home of the US Open"
+  },
+  {
+    "name": "Staten Island Ferry Terminal",
+    "latitude": 40.6433,
+    "longitude": -74.0735,
+    "description": "Free ferry service with views of the harbor"
+  }
+]
