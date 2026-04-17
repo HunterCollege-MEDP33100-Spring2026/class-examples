@@ -20,3 +20,6 @@ This repository is a collection of all the exercises done in class.
     - API Library example
 7. class8 
     - Javascript libraries example (ChartJS, Leaflet, Cytoscape)
+8. class9
+    - API example with localStorage
+    - Library example with 
